@@ -171,12 +171,7 @@
   z-index: 33;
   margin-top: 60px;
 }
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
 .table__heading {
   line-height: 1.15;
   font-size: 24px;
@@ -207,7 +202,7 @@
   z-index: 33;
   margin: 0 auto;
   padding-top: 100px;
-  z-index: 5;
+  
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
@@ -299,6 +294,7 @@
   flex-direction: column;
 }
 
+
 .table__heading_theme_dark {
   margin: 0;
   padding-bottom: 20px;
@@ -384,11 +380,10 @@
   width: 15px;
   height: 15px;
   margin-right: 6px;
-}
-
-.footer__social-icon {
   display: flex;
   align-items: center;
 }
+
+
 
 /* footer end */
